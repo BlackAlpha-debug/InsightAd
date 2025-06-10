@@ -1,8 +1,4 @@
-Here's a polished and professional version of your `README.md` that enhances clarity, flow, and technical precision while preserving all your original content:
-
----
-
-# Predictive Analytics for Social Network Ads
+#  Predictive Analytics for Social Network Ads
 
 This project explores **predictive analytics** in the realm of social media advertising. The primary objective is to develop a robust machine learning model that predicts whether a user will purchase a product based on demographic features such as **gender**, **age**, and **estimated salary**. Accurately identifying potential buyers can help businesses optimize ad spending and improve return on investment (ROI).
 
@@ -151,5 +147,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib
 ## 📎 License
 
 This project is released under the [MIT License](LICENSE). Feel free to use and modify it for your needs.
-
 
